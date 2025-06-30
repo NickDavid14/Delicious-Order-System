@@ -1,0 +1,102 @@
+[
+  {
+    "data": "2025-06-27T04:07:56.874Z",
+    "itens": [
+      {
+        "nome": "Pizza Quatro Queijos",
+        "preco": 45,
+        "quantidade": 1,
+        "excecoes": []
+      }
+    ]
+  },
+  {
+    "data": "2025-06-27T04:10:48.692Z",
+    "itens": [
+      {
+        "nome": "Pizza Calabresa",
+        "preco": 40,
+        "quantidade": 1,
+        "excecoes": []
+      },
+      {
+        "nome": "Água Mineral",
+        "preco": 5,
+        "quantidade": 1,
+        "excecoes": []
+      }
+    ]
+  },
+  {
+    "data": "2025-06-27T04:16:06.266Z",
+    "itens": [
+      {
+        "nome": "Lasanha",
+        "preco": 38,
+        "quantidade": 1,
+        "excecoes": [
+          "cebola",
+          "azeitona"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "2025-06-27T04:16:35.673Z",
+    "itens": [
+      {
+        "nome": "Pizza Margherita",
+        "preco": 35,
+        "quantidade": 1,
+        "excecoes": [
+          "sla"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "2025-06-27T10:53:21.913Z",
+    "itens": [
+      {
+        "nome": "Pizza Margherita",
+        "preco": 35,
+        "quantidade": 1,
+        "excecoes": [
+          "sem azeitona"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "2025-06-27T11:04:52.577Z",
+    "itens": [
+      {
+        "nome": "Pizza Margherita",
+        "preco": 35,
+        "quantidade": 1,
+        "excecoes": [
+          "sem azeitona"
+        ]
+      },
+      {
+        "nome": "Refrigerante",
+        "preco": 7.5,
+        "quantidade": 1,
+        "excecoes": []
+      }
+    ]
+  },
+  {
+    "data": "2025-06-29T14:49:10.607Z",
+    "itens": [
+      {
+        "nome": "Pizza Margherita",
+        "preco": 35,
+        "quantidade": 1,
+        "excecoes": [
+          "sem azeitona"
+        ]
+      }
+    ]
+  }
+]
